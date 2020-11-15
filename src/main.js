@@ -4,7 +4,6 @@ import jQuery from 'jquery';
 import Popper from 'popper.js';
 import App from './App.vue';
 
-
 window.$ = jQuery;
 window.jQuery = jQuery;
 

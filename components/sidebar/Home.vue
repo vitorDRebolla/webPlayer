@@ -54,7 +54,33 @@
                     },
                     {
                         title: 'Uniquely Yours',
-                        songs: [],
+                        songs: [
+                            {
+                                title: 'On repeat',
+                                subtitle: 'The songs you can’t get enough of right now.',
+                                src: 'https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat_DEFAULT-en.jpg'
+                            },
+                            {
+                                title: 'Repeat Rewind',
+                                subtitle: 'Past songs that you couldn\'t get enough of.',
+                                src: 'https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind_DEFAULT-en.jpg'
+                            },
+                            {
+                                title: 'Liked Songs',
+                                subtitle: '',
+                                src: 'https://misc.scdn.co/liked-songs/liked-songs-300.png'
+                            },
+                            {
+                                title: 'Your top songs 2019',
+                                subtitle: 'The songs you loved most this year, all wrapped up.',
+                                src: 'https://lineup-images.scdn.co/your-top-songs-2019_DEFAULT-en.jpg'
+                            },
+                            {
+                                title: 'Your top songs 2018',
+                                subtitle: 'The songs you loved most this year, all wrapped up.',
+                                src: 'https://lineup-images.scdn.co/your-top-songs-2018_DEFAULT-en.jpg'
+                            },
+                        ],
                     },
                 ]
             }
